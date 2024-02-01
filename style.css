@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+<<<<<<< HEAD
+    color: black;
+  }
+.wrapper {
+    background: #ef9d9d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+h2{
+    align-content: center;
+}
+/* .myInfo{
+    display: inline-block;
+    justify-content: center;
+} */
+=======
+  }
+>>>>>>> ecd52b933e2b6bfd583506f21fb81c266fe10811
